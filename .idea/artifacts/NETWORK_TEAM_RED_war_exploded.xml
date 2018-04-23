@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="NETWORK_TEAM_RED:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/NETWORK_TEAM_RED_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="NETWORK_TEAM_RED/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="NETWORK_TEAM_RED" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
